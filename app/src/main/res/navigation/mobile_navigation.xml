@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.mamcet.staffiin.ui.home.HomeFragment"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_staff"
+        android:name="com.mamcet.staffiin.ui.gallery.GalleryFragment"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_product"
+        android:name="com.mamcet.staffiin.ui.slideshow.SlideshowFragment"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_new_sales"
+        android:name="com.mamcet.staffiin.ui.newSales.NewSalesFragment"
+        tools:layout="@layout/fragement_new_sales" />
+    <fragment
+        android:id="@+id/nav_task"
+        android:name="com.mamcet.staffiin.ui.task.TaskFragment"
+        tools:layout="@layout/activity_task_assign" />
+
+</navigation>

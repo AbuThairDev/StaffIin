@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_backgroundColor"
+    tools:context=".ui.signin.LoginActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints"
+        >
+
+        <!-- Login page heading -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_marginTop="100dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hey hi !!!"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:textFontWeight="900"
+                android:fontFamily="@font/lato_black"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Welcome"
+                android:textColor="@color/black"
+                android:textSize="22sp"
+                android:layout_marginTop="8dp"
+                android:textFontWeight="900"
+                android:fontFamily="@font/lato_black"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"
+                android:fontFamily="@font/lato_medium"
+                android:text="Sign in to proceed"/>
+            <!-- User Form-->
+            <LinearLayout
+                android:layout_width="320dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_gravity="center"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <EditText
+                        android:layout_width="320dp"
+                        android:layout_height="40dp"
+                        android:hint="Email"
+                        android:textColor="@color/grey"
+                        android:id="@+id/login_email"
+                        android:drawablePadding="20dp"
+                        android:textSize="16sp"
+                        android:drawableTint="@color/grey"
+                        android:paddingLeft="15dp"
+                        android:drawableLeft="@drawable/email_icon"
+                        android:background="@drawable/input"
+                        android:backgroundTint="@color/white"
+                        android:inputType="textEmailAddress"
+                        android:fontFamily="@font/lato_medium"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:background="@color/black"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="25dp"
+                    android:orientation="vertical">
+                    <EditText
+                        android:layout_width="320dp"
+                        android:layout_height="40dp"
+                        android:hint="Password"
+                        android:textColor="@color/grey"
+                        android:id="@+id/login_password"
+                        android:drawablePadding="20dp"
+                        android:textSize="16sp"
+                        android:drawableTint="@color/grey"
+                        android:paddingLeft="15dp"
+                        android:drawableLeft="@drawable/password_icon"
+                        android:background="@drawable/input"
+                        android:backgroundTint="@color/white"
+                        android:inputType="textPassword"
+                        android:fontFamily="@font/lato_medium"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="3dp"
+                        android:background="@color/black"/>
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="30dp">
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:background="@drawable/button"
+                        android:backgroundTint="@color/grey"
+                        android:text="Sign In"
+                        android:id="@+id/login_btn"
+                        android:textAllCaps="false"
+                        android:textColor="@color/white"
+                        android:fontFamily="@font/lato_medium"
+                        android:letterSpacing=".02">
+
+                    </androidx.appcompat.widget.AppCompatButton>
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

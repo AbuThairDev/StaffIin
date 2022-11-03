@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/app_backgroundColor"
+    tools:context=".ui.newSales.update.update">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints"
+        android:scrollbarThumbVertical="@null">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingStart="30dp"
+            android:paddingEnd="30dp"
+            android:gravity="center">
+
+            <!-- Manage Staffs -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_marginTop="20dp">
+
+                <!-- Manage Staffs Heading -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/lato_bold"
+                    android:text="Choose the product below"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    tools:layout_editor_absoluteX="35dp"
+                    tools:layout_editor_absoluteY="20dp" />
+            </LinearLayout>
+
+
+            <!--Spinner widget-->
+            <Spinner
+                android:id="@+id/product_list"
+                android:layout_height="50dp"
+                android:layout_width="160dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="30dp"/>
+
+            <!-- Create an Staff button -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:id="@+id/container_btn">
+
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/update_btn"
+                    android:layout_width="250dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="40dp"
+                    android:background="@drawable/button"
+                    android:backgroundTint="@color/grey"
+                    android:layout_gravity="center"
+                    android:text="Create new sales"
+                    android:textColor="@color/white"
+                    android:textAllCaps="false"
+                    android:letterSpacing="0.04"
+                    android:gravity="center"
+                    android:clickable="true"
+
+                    >
+
+                </androidx.appcompat.widget.AppCompatButton>
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

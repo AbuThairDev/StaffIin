@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "362067366119",
+    "firebase_url": "https://staff-in-default-rtdb.firebaseio.com",
+    "project_id": "staff-in",
+    "storage_bucket": "staff-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362067366119:android:557276a0fb70db92e45242",
+        "android_client_info": {
+          "package_name": "com.mamcet.staffIin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362067366119-i3afgel4j58ai0fj52svbgnjl1e3k1u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcLUGCm9pcbBoFSRPkwamlB0UJDbwCDYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362067366119-i3afgel4j58ai0fj52svbgnjl1e3k1u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362067366119:android:b02f8eeb253d2732e45242",
+        "android_client_info": {
+          "package_name": "com.mamcet.staffiin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362067366119-i3afgel4j58ai0fj52svbgnjl1e3k1u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcLUGCm9pcbBoFSRPkwamlB0UJDbwCDYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362067366119-i3afgel4j58ai0fj52svbgnjl1e3k1u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/drawable/button.xml" value="0.1435" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/drawable/circle.xml" value="0.176" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.107" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1175" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/drawable/input.xml" value="0.14" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/drawable/shap.xml" value="0.176" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/font/font.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/font/lato_black.xml" value="0.284375" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/font/lato_bold.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/font/lato_medium.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/font/lato_thin.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout-v28/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_auth_home.xml" value="0.176" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_create_a_product.xml" value="0.2" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_create_an_staff.xml" value="0.2" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_login.xml" value="0.152" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_task.xml" value="0.1" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_task_assign.xml" value="0.176" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_update_sales.xml" value="0.176" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/app_bar_main.xml" value="0.2" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragement_new_sales.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragment.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragment_create_an_staff.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragment_gallery.xml" value="0.176" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragment_login.xml" value="0.152" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragment_slideshow.xml" value="0.176" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/nav_header_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1345" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.124" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
