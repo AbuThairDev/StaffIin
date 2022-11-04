@@ -8,7 +8,7 @@
         android:orderInCategory="300"
         android:title="Notfication"
         android:icon="@drawable/ic_notfication_icon"
-        app:showAsAction="ifRoom">
+        app:showAsAction="always">
 
     </item>
     <item
@@ -16,7 +16,8 @@
         android:orderInCategory="300"
         android:title="User"
         android:icon="@drawable/ic_user_icon"
-        app:showAsAction="ifRoom">
+        app:showAsAction="always"
+        >
 
     </item>
 

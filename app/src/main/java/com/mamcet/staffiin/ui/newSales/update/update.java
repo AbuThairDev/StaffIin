@@ -8,19 +8,29 @@ import android.widget.Spinner;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 import com.mamcet.staffiin.R;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class update extends AppCompatActivity implements AdapterView.OnItemSelectedListener {
     // create array of Strings
     // and store name of courses
-    String[] courses = { "3D Car", "3D Cartoons",
-            "Custom 3D Models" };
+    String[] courses;
+
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_update_sales);
+
+
 
         // Take the instance of Spinner and
         // apply OnItemSelectedListener on it which

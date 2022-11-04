@@ -48,7 +48,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\MANI\Downloads\clock.svg" />
+                                                <entry key="imagePath" value="C:\Users\MANI\Downloads\exclamation-circle.svg" />
                                                 <entry key="opacityPercent" value="60" />
                                                 <entry key="paddingPercent" value="-5" />
                                               </map>
@@ -83,8 +83,8 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="C:\Users\MANI\Downloads\clock.svg" />
-                                      <entry key="outputName" value="clock_icon" />
+                                      <entry key="imageAsset" value="C:\Users\MANI\Downloads\exclamation-circle.svg" />
+                                      <entry key="outputName" value="exclamation_icon" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -274,8 +274,8 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="imagePath" value="C:\Users\MANI\Downloads\Line Graph - Blank Presentation.jpg" />
-                                                <entry key="scalingPercent" value="144" />
+                                                <entry key="imagePath" value="C:\Users\MANI\Downloads\pic.jpg" />
+                                                <entry key="scalingPercent" value="159" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -287,7 +287,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="scalingPercent" value="184" />
+                                                <entry key="scalingPercent" value="223" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -297,7 +297,7 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="foregroundLayerName" value="report" />
+                                      <entry key="outputName" value="pic" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -361,7 +361,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputIconType" value="LAUNCHER_LEGACY" />
+                            <entry key="outputIconType" value="ACTIONBAR" />
                           </map>
                         </option>
                       </PersistentState>
@@ -370,6 +370,11 @@
                 </map>
               </option>
             </PersistentState>
+          </value>
+        </entry>
+        <entry key="vectorWizard">
+          <value>
+            <PersistentState />
           </value>
         </entry>
       </map>

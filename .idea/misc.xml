@@ -11,8 +11,10 @@
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/drawable/input.xml" value="0.14" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/drawable/shap.xml" value="0.176" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/font/font.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/font/lato.xml" value="0.108203125" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/font/lato_black.xml" value="0.284375" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/font/lato_bold.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/font/lato_light.xml" value="0.108203125" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/font/lato_medium.xml" value="0.2833333333333333" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/font/lato_thin.xml" value="0.18611111111111112" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout-v28/fragment_home.xml" value="0.2" />
@@ -21,6 +23,8 @@
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_create_an_staff.xml" value="0.2" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_login.xml" value="0.152" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_notificatio.xml" value="0.187890625" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_profile.xml" value="0.187890625" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_task.xml" value="0.1" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_task_assign.xml" value="0.176" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/activity_update_sales.xml" value="0.176" />
@@ -28,14 +32,15 @@
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/content_main.xml" value="0.2" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragement_new_sales.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragment.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragment_about.xml" value="0.2" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragment_create_an_staff.xml" value="0.2105978260869565" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragment_gallery.xml" value="0.176" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragment_login.xml" value="0.152" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/fragment_slideshow.xml" value="0.176" />
-        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/nav_header_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/layout/nav_header_main.xml" value="0.152" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
-        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/menu/main.xml" value="0.264" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1345" />
         <entry key="..\:/Users/MANI/StudioProjects/StaffIin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.124" />
       </map>

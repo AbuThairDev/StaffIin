@@ -40,6 +40,18 @@
         </activity>
 
         <activity
+            android:name=".ui.notification.NotificationActivity"
+            android:exported="false"
+            android:label=""
+            android:theme="@style/Theme.StaffIin">
+        </activity>
+        <activity
+            android:name=".ui.profile.ProfileActivity"
+            android:exported="false"
+            android:label=""
+            android:theme="@style/Theme.StaffIin">
+        </activity>
+        <activity
             android:name=".ui.newSales.update.update"
             android:exported="false"
             android:label=""
@@ -51,6 +63,10 @@
             android:label=""
             android:theme="@style/Theme.StaffIin">
         </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
